@@ -25,6 +25,6 @@
 #playlist,#playlist .module,#playlist h3{ border-color:#535353;}
 #playlist .module{  color:#COR DA FONT DA PLAY; background-color:#535353; }
 #playlist h3{ background:url(http://dl.dropbox.com/u/58708531/bar2.jpg); color:#000000; background-color:#535353;  }
-#playlist .even{background-color:#535353;}
-#playlist .odd{ background-color:#535353;}
-#playlist .focus{ background-color:#535353; color:#aaa;}
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#aaa;}

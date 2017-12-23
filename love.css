@@ -1,0 +1,30 @@
+#player,#player a{ color:#535353;  font-size: 12px; font-family:TAHOMA;}
+#player{ background:url(https://i.imgur.com/dzDVCBj.png); background-position:bottom; background-color: #000000;}
+#player .mainImage{ background:url(https://i.imgur.com/PF1niqd.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(https://i.imgur.com/L1amq4j.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 12px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#000000;  }
+#player #seekerBuffered{ background-color:#535353; }
+#player #seekerSliderBase{ background-color:#000000; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/kwaqeuc/eb7lze93x/sizerandvolj_copy.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#535353;}
+#playlist .module{  color:#COR DA FONT DA PLAY; background-color:#535353; }
+#playlist h3{ background:url(http://dl.dropbox.com/u/58708531/bar2.jpg); color:#000000; background-color:#535353;  }
+#playlist .even{background-color:#535353;}
+#playlist .odd{ background-color:#535353;}
+#playlist .focus{ background-color:#535353; color:#aaa;}
